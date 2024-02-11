@@ -7,8 +7,8 @@ This project/program  will count the number of OpenAI tokens and calculate and r
 
 1. Clone
 2. pip install -r requirements.txt
-##Testing
 
+##Testing
 1. pytest
 2. pytest --pylint
 3. pytest --pylint --cov 
